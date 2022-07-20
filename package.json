@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "irfanismail",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "library": "git+ssh://git@github.com:irfancoder/library.git",
+    "vite": "^3.0.2",
+    "vue": "^3.2.37"
+  }
+}
